@@ -129,23 +129,8 @@ python model.py --train --output models/v1/xgb_best_model_v1.joblib
 ```powershell
 python -c "import streamlit as st; print(st.__version__)"
 ```
-
----
-
-## Tests
-
-Run unit tests with:
-
-```powershell
-pytest -q
-```
-
----
-
 ## License
 
 MIT — see `LICENSE`.
 
 ---
-
-If you'd like, I can add a small smoke test that attempts to load `models/v1/xgb_best_model_v1.joblib` and run a dummy prediction to validate the UI and artifact end-to-end.
