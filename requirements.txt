@@ -6,5 +6,4 @@ joblib==1.2.0
 matplotlib==3.7.1
 seaborn==0.12.2
 streamlit==1.22.0
-python==3.10.12
 
