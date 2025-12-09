@@ -10,6 +10,8 @@ A modern, interactive, and fully machine-learning powered **Cab Fare Prediction 
 The application uses a trained ML regression model and a beautiful Streamlit UI with a clean and responsive two-column layout.
 
 This project is perfect for **ML beginners, portfolio building, and real-world application development**.
+![Uploading Cab Fare Predictor - Google Chrome 09-12-2025 20_43_53.png…]()
+
 
 ---
 
